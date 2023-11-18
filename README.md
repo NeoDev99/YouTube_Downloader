@@ -22,5 +22,5 @@ This YouTube downloader is a simple tool that allows users to download videos fr
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/youtube-downloader.git
+git clone https://github.com/UmbrellaSkiies/YouTube_Downloader.git
 cd youtube-downloader
