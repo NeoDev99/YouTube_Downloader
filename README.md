@@ -24,3 +24,14 @@ This YouTube downloader is a simple tool that allows users to download videos fr
 ```bash
 git clone https://github.com/UmbrellaSkiies/YouTube_Downloader.git
 cd YouTube_Downloader
+```
+
+## Contributing
+Feel free to contribute to the development of this project! Check out the Contributing Guidelines for more information.
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgments
+Thanks to the contributors who have made this project possible.
+Inspired by example-project.
